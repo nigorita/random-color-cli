@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-color": "^1.4.0",
+    "randomcolor": "^0.5.4"
+  }
+}
